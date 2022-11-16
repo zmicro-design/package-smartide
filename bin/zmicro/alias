@@ -9,7 +9,7 @@ help() {
 }
 
 version() {
-  smartide --version
+  smartide version
 }
 
 core() {
